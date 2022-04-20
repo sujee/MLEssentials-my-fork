@@ -5,9 +5,9 @@ metastore_db/
 *.zip
 *.html
 not-using/
-data
+#data
 *.sw*
-*.csv
+#*.csv
 
 
 ## Python
